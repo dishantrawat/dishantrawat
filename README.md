@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dishantrawat
 - 👀 I’m 2021 computer science garduate
-- 🌱 I’m currently learning java
+- 🌱 Knowledge of JAVA, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
