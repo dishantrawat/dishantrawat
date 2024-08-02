@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dishantrawat
-- 👀 I’m 2021 computer science garduate
+- 👀 Computer Science Garduate
 - 🌱 Knowledge of JAVA, HTML and CSS.
 -    Working on SAP ABAP
 - 💞️ I’m looking to collaborate on ...
